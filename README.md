@@ -1,10 +1,6 @@
 ## I'm a Python Web Developer
 
-👨‍🎓 I am a student of KFU ITIS  
-💻 I make websites on Django  
-👨🏼‍💻 I program in python  
-🏃‍♂ I love running  
-💡 I work on interesting projects  
+My name is Rainur. I am a 3rd year student at KFU ITIS in Kazan. In addition to studying at the university, I work as a Python web developer. In my free time from study and work, I work on various interesting projects.
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3c3c3c?style=for-the-badge&logo=python&logoColor=58cd60)
