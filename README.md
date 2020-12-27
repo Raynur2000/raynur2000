@@ -1,18 +1,22 @@
 ## I'm a Python Web Developer
 
+👨‍🎓I am a student of KFU ITIS
+💻I make websites on Django
+👨🏼‍💻I program in python
+🏃‍♂I love running
+💡I work on interesting projects
+
 ### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![Python](https://img.shields.io/badge/-Python-3c3c3c?style=for-the-badge&logo=python&logoColor=58cd60)
+![Django](https://img.shields.io/badge/-Django-3c3c3c?style=for-the-badge&logo=django&logoColor=58cd60)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-3c3c3c?style=for-the-badge&logo=Postgresql&logoColor=58cd60)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3c3c3c?style=for-the-badge&logo=JavaScript&logoColor=58cd60)
+![.Net](https://img.shields.io/badge/-Framework-3c3c3c?style=for-the-badge&logo=.net&logoColor=58cd60)
+
 
 ### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/shpavda_technologies)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavdaMain)
+[![Telegram](https://img.shields.io/badge/-Telegram-3c3c3c?style=for-the-badge&logo=telegram&logoColor=58cd60)](https://t.me/rainur_khasani)
+[![Instagram](https://img.shields.io/badge/-Instagram-3c3c3c?style=for-the-badge&logo=instagram&logoColor=58cd60)](https://www.instagram.com/rainur.khasanov/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3c3c3c?style=for-the-badge&logo=linkedin&logoColor=58cd60)](https://www.linkedin.com/in/rainur-khasanov-8849a61a9/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-3c3c3c?style=for-the-badge&logo=Vk&logoColor=58cd60)](https://vk.com/haskhasanov)
+[![Facebook](https://img.shields.io/badge/-Facebook-3c3c3c?style=for-the-badge&logo=Facebook&logoColor=58cd60)](https://www.facebook.com/profile.php?id=100006800866518)
