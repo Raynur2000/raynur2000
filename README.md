@@ -1,10 +1,10 @@
 ## I'm a Python Web Developer
 
-👨‍🎓I am a student of KFU ITIS  
-💻I make websites on Django  
-👨🏼‍💻I program in python  
-🏃‍♂I love running  
-💡I work on interesting projects  
+👨‍🎓 I am a student of KFU ITIS  
+💻 I make websites on Django  
+👨🏼‍💻 I program in python  
+🏃‍♂ I love running  
+💡 I work on interesting projects  
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3c3c3c?style=for-the-badge&logo=python&logoColor=58cd60)
